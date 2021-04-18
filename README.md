@@ -34,6 +34,12 @@ console.log(cidrs);
 console.log('?? - '+ipRangeCheck('192.168.0.105', cidrs));
 console.log('?? - '+ipRangeCheck('192.168.0.120', cidrs));
 ```
+## Uses
+
+* Security - test if visiting IP addresses are white or black listed.
+* Routing - use IP address to route to a destination specific resource
 
 ---
 <img src="http://webexperiment.info/extcounter/mdcount.php?id=inrange-demo">
+
+ 
