@@ -1,0 +1,15 @@
+{
+  "name": "inrange-demo",
+  "version": "0.0.1",
+  "description": "Demonstrates the use of ip-range-check and ip-subnet-calculator for checking an IP address against a CIDR range.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/jxmot",
+  "license": "MIT",
+  "dependencies": {
+    "ip-range-check": "^0.2.0",
+    "ip-subnet-calculator": "^1.1.8"
+  }
+}
